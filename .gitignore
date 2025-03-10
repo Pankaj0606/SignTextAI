@@ -1,0 +1,27 @@
+# Ignore repomix file  
+repomix-output.txt  
+
+# Ignore Python cache and virtual environments  
+__pycache__/  
+*.pyc  
+*.pyo  
+*.pyd  
+*.log  
+.venv/  
+env/  
+
+# Ignore datasets and large files  
+*.csv  
+*.xlsx  
+*.json  
+*.h5  
+*.hdf5  
+
+# Ignore system files  
+.DS_Store  
+Thumbs.db  
+
+repomix-output.txt
+__pycache__/
+.DS_Store
+*.h5
